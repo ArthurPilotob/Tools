@@ -28,9 +28,9 @@ Este repositório une diversos utilitários que desenvolvi para facilitar tarefa
 
 ## 🚀 Interface via Streamlit
 
-Pensando em acessibilidade, integrei todos os utilitários ao Streamlit. Embora a biblioteca seja amplamente utilizada para visualização de dados,
-acredito que ela também oferece um grande potencial para o desenvolvimento de aplicativos simples, interativos e úteis para todos os públicos.
+Pensando em acessibilidade, integrei todos os utilitários ao Streamlit. Embora a biblioteca seja normalmente utilizada para visualização de dados,
+acho ela muito útil para o desenvolvimento de aplicativos simples todos os públicos.
 
 ---
 
-Sinta-se à vontade para explorar cada utilitário e contribuir com sugestões ou melhorias!
+Seja bem-vindo e aproveite os códigos!
