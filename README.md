@@ -1,6 +1,6 @@
 # Utilitários em Python
 
-Este une diversos utilitários que desenvolvi para facilitar tarefas do dia a dia, incluindo simulações financeiras. Todos os projetos também estão disponíveis via [Streamlit](https://streamlit.io/), sendo muito mais acessível para quem prefere utilizar apps.
+Este repositório une diversos utilitários que desenvolvi para facilitar tarefas do dia a dia, incluindo simulações financeiras. Todos os projetos também estão disponíveis via [Streamlit](https://streamlit.io/), sendo muito mais acessível para quem prefere utilizar apps.
 
 ## 📌 Utilitários disponíveis
 
