@@ -1,0 +1,14 @@
+/* Estilos para os inputs de valores recebidos (verde) */
+div.stNumberInput[data-testid="stNumberInput_salario"],
+div.stNumberInput[data-testid="stNumberInput_alimentacao"],
+div.stNumberInput[data-testid="stNumberInput_transporte"],
+div.stNumberInput[data-testid="stNumberInput_outros"] {
+    color: green !important; /* Cor verde para os textos dos inputs de valores recebidos */
+}
+
+/* Estilos para os inputs de valores gastos (vermelho) */
+div.stNumberInput[data-testid="stNumberInput_comida"],
+div.stNumberInput[data-testid="stNumberInput_outros_input"],
+div.stNumberInput[data-testid="stNumberInput_transporte_input"] {
+    color: red !important; /* Cor vermelha para os textos dos inputs de valores gastos */
+}
