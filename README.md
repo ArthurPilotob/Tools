@@ -6,5 +6,5 @@
   <li><a href ="Utilitários/prog_livro"> Progresso_Livro</a></li>
   O prog_livro é um programa mais simples, que é util para as pessoas que buscam marcar seu progresso bem como desenhar algumas metas na leitura
   <li><a href ="Utilitários/simu_invest"> Simulador_de_Investimento</a></li>
-  O simu_invest é o mais complexos dos programas assim como o que mais demorou a ser produzido, sendo extremamente util para pessoas novas no mundo dos investimentos que desejam fazer uma previsão de quanto o seu dinheiro irá render num determinado tempo, o programa une bibliotecas como o pandas e matplotlib para visualização em tabelas e também em gráfico, muito útil para esse função e um programa bem inituitivo de usar
+  O simu_invest é o mais complexos dos programas assim como o que mais demorou a ser produzido, sendo extremamente util para pessoas novas no mundo dos investimentos que desejam fazer uma previsão de quanto o seu dinheiro irá render num determinado tempo, o programa une bibliotecas como o pandas e matplotlib para visualização em tabelas e também em gráfico, muito útil para essa função e um programa bem inituitivo de usar, ou seja, acessível a todos
 </ol>
